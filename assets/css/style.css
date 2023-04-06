@@ -34,3 +34,7 @@ h1,h2{
     list-style-type: none;
     margin-right: 30px;
 }
+
+#menu a{
+    text-decoration: none;
+}
